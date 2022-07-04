@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bannerColor {
+  background: #5CB85C 0% 0% no-repeat padding-box;
+  width: 100%;
+  height: 30px;
+  color: white;
+  text-justify: auto;
+  text-align: center;
+  margin: 0px 0px 40px 0px;
+}
+
+.btnStyle {
+  background-color: #5CB85C !important;
+  border: 1px solid #5CB85C !important;
+  border-radius: 2px;
+  color: #fff !important;
+  margin: 5px;
+}
